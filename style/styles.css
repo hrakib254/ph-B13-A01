@@ -53,14 +53,87 @@ nav .btn{
     font-size: 16px;
     font-weight: 600px;
     color: #ffffff;
-
-
-  
+} 
+#hero {
+    background-image:url(/assets/hero-bg.png);
+     height: 100vh;
+     background-repeat: no-repeat;
+     background-position:center;
+     background-size: cover;
 
 }
+#hero .hero-container{
+    width: 85%;
+    max-width: 1360px;
+    padding-top: 125px;
+    margin: 0 auto;
+    text-align: center;
+    /* background-color: #ffffff; */
+    padding-bottom: 179px;
 
-    
-    
+}
+.hero-container .pluse{
+
+    background-color: #ffffff;
+    font-size:16px;
+    font-weight: 500px;
+    color: #469165;
+    display:inline-block;
+    padding: 12px; 
+    border-radius: 1000px;
+    margin-bottom: 16px;
+
+
+}
+.hero-heading h2{
+    font-size: 72px;
+    font-weight: bold;
+    line-height: 84px;
+    color: #ffffff;
+    margin-bottom: 16px;
+
+
+
+}
+.hero-heading p{
+    font-size: 18;
+    font-weight: 400;
+    line-height: 24px;
+    color: #ffffff;
+    margin-bottom: 32px;
+}
+
+ .button-group .btn-one{
+    background-color: #469165;
+    padding: 16px;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 600px;
+    margin-bottom: 179px;
+
+ } 
+ .button-group .btn-two{
+    background: transparent;
+    padding: 16px;
+    border-radius: 4px;
+    color: #ffffff;
+    font: size 16px; 
+    font-weight: 600;
+    margin-bottom: 179px;
+    border: 1px solid white;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
     
     
 
