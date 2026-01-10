@@ -53,6 +53,9 @@ nav .btn{
     font-size: 16px;
     font-weight: 600px;
     color: #ffffff;
+}
+nav .menu  :hover{
+    background-color: #4bb879;
 } 
 #hero {
     background-image:url(/assets/hero-bg.png);
@@ -303,6 +306,66 @@ nav .btn{
     color: #627382;
     margin-bottom: 200px;
 }
+.section-footer{
+    background-color: #001931;
+    padding: 45px 10%;
+    color: #FAFAFA;
+    margin-top: 120px;
+    
+}
+.footer-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.text-down{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.row{
+    margin-top: 80px;
+    border: 0;
+    border-top: 1px  solid rgb(41, 39, 37);
+    
+
+}
+.footer-container .social h3{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    margin-bottom: 16px;
+
+
+}
+.social .social-icons a{
+
+    margin-right: 16px;
+    background-color: #F7F6F2;
+    border-radius: 25px;
+
+}
+  .social-icons a :hover{
+
+    background-color: #ffffff;
+    transform: translateY(-5px);
+    
+
+ }
+
+ .btn-one :hover{
+    background-color: rgb(223, 187, 140);
+     cursor: pointer;
+  
+    
+
+ }
+
+
+  
 
 
 
