@@ -58,7 +58,7 @@ nav .menu  :hover{
     background-color: #4bb879;
 } 
 #hero {
-    background-image:url(/assets/hero-bg.png);
+    background-image:url('../assets/hero-bg.png');
      height: 100vh;
      background-repeat: no-repeat;
      background-position:center;
