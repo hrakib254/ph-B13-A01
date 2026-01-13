@@ -51,7 +51,7 @@ nav .btn{
     padding: 12.5px 16px;
     border-radius: 4px;
     font-size: 16px;
-    font-weight: 600px;
+    font-weight: 600;
     color: #ffffff;
 }
 nav .menu  :hover{
@@ -90,7 +90,7 @@ nav .menu  :hover{
 }
 .hero-heading h2{
     font-size: 72px;
-    font-weight: bold;
+    font-weight:700;
     line-height: 84px;
     color: #ffffff;
     margin-bottom: 16px;
@@ -99,7 +99,7 @@ nav .menu  :hover{
 
 }
 .hero-heading p{
-    font-size: 18;
+    font-size: 18px;
     font-weight: 400;
     line-height: 24px;
     color: #ffffff;
@@ -356,7 +356,7 @@ nav .menu  :hover{
 
  }
 
- .btn-one :hover{
+ .btn-one a:hover{
     background-color: rgb(223, 187, 140);
      cursor: pointer;
   
